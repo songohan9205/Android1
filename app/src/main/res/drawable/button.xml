@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent"/> <!-- Color de fondo transparente -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/border_color"/> <!-- Color y ancho del borde -->
+    <corners android:radius="4dp"/> <!-- Radio de las esquinas -->
+</shape>
